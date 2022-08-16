@@ -1,0 +1,9 @@
+.loginBox {
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-top: 100px;
+  text-align: center;
+}
